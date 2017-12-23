@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "backend": "bytecode",
+      "main-module": "Index"
+    }
+  ],
+  "name": "curly-pancake",
+  "ocamlfind-dependencies": ["core"],
+  "ocaml-flags": ["-thread"],
+  "refmt": 3,
+  "sources": "src"
+}
